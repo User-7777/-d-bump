@@ -1,1 +1,1 @@
-worker: python bump.py
+worker: python inj.py
